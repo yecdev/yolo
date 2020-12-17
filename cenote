@@ -21,7 +21,7 @@ $config->{'password'} = '';					# default miner password
 $config->{'stats_refresh'} = 1;					# interval (seconds) to update stats display
 $config->{'cenote'} = 0;					# number of blocks to burn !
 $config->{'scrooge'} = 0;					# force all workers to mine for the pool addr
-$config->{'text'} = "ChileBob on brink of second tequila";	# Default text for coinbase transaction
+$config->{'text'} = "www.FreeSoloMining.com";	# Default text for coinbase transaction
 
 my $conf;							# Config settings that cant be changed via command line
 $conf->{'block_found'} = 0;					# blocks found so far this session
