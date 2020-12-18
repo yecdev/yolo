@@ -1,4 +1,4 @@
-# StratumPool & StratumSolo : Ycash Solo-Mining Stratum Servers
+# Yolo : Ycash Solo-Mining Stratum Servers
 
 These are a very simple stratum servers for connecting GPU miners to a Ycash full node.
 
