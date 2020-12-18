@@ -13,14 +13,13 @@ Payments are made within the coinbase transaction, which means :-
 
 There's no dev fee but don't expect any support !! 
 
-If you'd like to buy beers :-
+If you'd like to buy beers for the original developer (@ChileBob) :-
 - YCASH : ys1c8cvazsz5gfp2zhdmzxcarfh4gp6jezdcxnywfcpyuau0l0f9uj99tzvrr6sjw5rfhpsw06lc6n
 - ZCASH : zs18zekcwmw9murkl0qazjz5hz4uenaf9pyw53as6f4plx39m92elfyhljgxwc25t3s5uerzqtmf0w
 
 ## Requirements :-
 
-- Ycash Full Node (Ubuntu/Debian Linux)
-- YECwallet Full Node
+- Ycash full node running on Ubuntu/Debian Linux
 - GPU Hardware (ie: Nvidia, AMD)
 - GPU Mining Software for Equihash 192,7 (ie: miniZ v1.6w)
 
